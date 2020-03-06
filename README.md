@@ -1,4 +1,4 @@
-# object-detection-with-speech
+# object-detection-with-voicefeedback
 detected objects names will be given as speech output 
 
 Prerequiste- you should have already done  object detection implementation with any opensource model like ssd..
